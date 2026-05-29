@@ -70,6 +70,7 @@
 
 - [How MTProto Fake-TLS Makes Your Telegram Undetectable](https://telegra.ph/How-MTProto-Fake-TLS-Makes-Your-Telegram-Undetectable-05-27) — 2026-05-27
 - [Best Free Telegram Proxies — Frankfurt Germany Server](https://telegra.ph/Best-Free-Telegram-Proxies--Frankfurt-Germany-Server-05-28) — 2026-05-28
+- [Как обойти блокировку Telegram с помощью MTProto прокси 2026](https://telegra.ph/Kak-obojti-blokirovku-Telegram-s-pomoshchyu-MTProto-proksi-2026-05-29) — 2026-05-29
 
 ## 🔔 Daily Updates
 
