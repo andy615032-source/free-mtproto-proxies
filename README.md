@@ -9,7 +9,7 @@
 ](https://t.me/SetProxy)
 [
 
-![Updated](https://img.shields.io/badge/Updated-2026-05-29-green)
+![Updated](https://img.shields.io/badge/Updated-2026-05-30-green)
 
 ]()
 [
@@ -62,7 +62,7 @@
 | 🔒 Type | MTProto Fake-TLS |
 | 🛡️ Masking | Cloudflare |
 | ⚡ Ports | 443, 8443, 2053 |
-| 🔄 Updated | 2026-05-29 |
+| 🔄 Updated | 2026-05-30 |
 
 ---
 
@@ -85,4 +85,4 @@
 Бесплатные MTProto прокси для Telegram. Сервер во Франкфурте.
 Подпишитесь на [@SetProxy](https://t.me/SetProxy) для ежедневных обновлений.
 
-*Last updated: 2026-05-29 ✅*
+*Last updated: 2026-05-30 ✅*
