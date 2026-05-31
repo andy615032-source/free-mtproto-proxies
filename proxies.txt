@@ -1,5 +1,5 @@
 # Free MTProto Telegram Proxies
-# Updated: 2026-05-30
+# Updated: 2026-05-31
 # Server: 79.137.196.223 | Frankfurt
 # Subscribe: t.me/SetProxy
 
